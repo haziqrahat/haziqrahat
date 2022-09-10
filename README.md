@@ -11,7 +11,9 @@
  <h3> 🧑🏻‍💻 About Me</h3>
 
 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
+
 👍🏻 I like developing software solutions
+
 💬 Ask me about **Data Science and Python**
 
 📫 How to reach me **haziqbullah@gmail.com**
