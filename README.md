@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100"/>
+	<img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100"/><p>haziq hrere</p>
 
 <h1 align="center">this is Haziq</h1></div>
 <h3 align="center"> I am a developer and a data science geek</h3>
