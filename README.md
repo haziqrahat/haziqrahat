@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="100"/>
 <h1 align="center">Hi👋🏻 this is Haziq</h1>
-	<h4 align="center"><i> I am a developer and a data science geek</i></h4>
+	<h4 align="center" style='font-family:Georgia'><i> I am a developer and a data science geek</i></h4>
 	</br>
 	</div>
 
