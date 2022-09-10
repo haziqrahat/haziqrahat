@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="100"/>
-<h1 align="center">Hi👋🏻 this is "Haziq"</h1>
+<h1 align="center">Hi👋🏻 this is Haziq Rahat</h1>
 <h4 align="center"> I am a developer and a data science geek</h4>
 	</div>
 
