@@ -14,7 +14,7 @@ Haziq</a></h1>
 
 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 💬 Ask me about **Data Science and Python**
+💬 Ask me about **Data Science and Python**
 
 📫 How to reach me **haziqbullah@gmail.com**
 
