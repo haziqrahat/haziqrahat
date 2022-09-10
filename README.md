@@ -1,13 +1,14 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="100"/>
 <h2 align="center">－ Hi   there,   I am  <a>Haziq －</a></h2>
-	<p>You are currently viewing Haziq Rahat's github profile</p>
 	</br>
 	</div>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
+🧑🏻‍💻 <h5>About Me</h5>
 
 🔭 I am a graduate student at <a href="https://phoenix.tech/griffyn/" target="blank">UC Riverside</a>
 
