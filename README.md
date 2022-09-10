@@ -10,15 +10,15 @@
 
  <h3> 🧑🏻‍💻 About Me</h3>
 
-🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
+- 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
 
-👍🏻 I like developing software solutions
+- 👍🏻 I like developing software solutions
 
-💬 Ask me about **Data Science and Python**
+- 💬 Ask me about **Data Science and Python**
 
-📫 How to reach me **haziqbullah@gmail.com**
+- 📫 How to reach me **haziqbullah@gmail.com**
 
-📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
 
 
