@@ -10,12 +10,8 @@
 
  <h3> 🧑🏻‍💻 About Me</h3>
 
-🔭 I am a graduate student at <a href="https://phoenix.tech/griffyn/" target="blank">UC Riverside</a>
-
-🌱 I’m currently Working on Mobile App(React-Native)
-
-🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
+🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
+👍🏻 I like developing software solutions
 💬 Ask me about **Data Science and Python**
 
 📫 How to reach me **haziqbullah@gmail.com**
