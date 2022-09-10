@@ -6,11 +6,9 @@ Haziq</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-🔭 I am graduate student at <a href="https://phoenix.tech/griffyn/" target="blank">UC Riverside</a>
+🔭 I am a graduate student at <a href="https://phoenix.tech/griffyn/" target="blank">UC Riverside</a>
 
 🌱 I’m currently Working on Mobile App(React-Native)
-
- 🤝 I’m looking for jobs.
 
 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
