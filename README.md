@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
- <h2> 🧑🏻‍💻 About Me</h2>
+ <h3> 🧑🏻‍💻 About Me</h3>
 
 🔭 I am a graduate student at <a href="https://phoenix.tech/griffyn/" target="blank">UC Riverside</a>
 
