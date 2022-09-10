@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100"/>
-</div>
-<h1 align="center">this is Haziq</h1>
+
+<h1 align="center">this is Haziq</h1></div>
 <h3 align="center"> I am a developer and a data science geek</h3>
 
 <a target="_blank" align="center">
