@@ -1,6 +1,7 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="100"/>
 <h2 align="center">Hi   there 👋🏻,   I am  <a>Haziq</a></h2>
+	<p>You are currently viewing Haziq Rahat's github profile</p>
 	</br>
 	</div>
 
