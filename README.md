@@ -49,7 +49,7 @@
 </p><br/>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=haziqrahat&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqrahat&show_icons=true" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqrahat&show_icons=true" height="170"/>
 	</div>
 
 <h3> 👀 My interests</h3> 
