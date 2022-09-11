@@ -14,6 +14,7 @@
 - 🎓 I am a graduate student at **UC Riverside**
 
 - 🫶 I love developing software applications
+- 🐍 Python is my language
 
 - 💬 Ask me about **Data Science and Python**
 
