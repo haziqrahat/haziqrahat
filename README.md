@@ -13,7 +13,7 @@
 
 - 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
 
-- 🫶🏻 I like developing software applications
+- 🫶 I like developing software applications
 
 - 💬 Ask me about **Data Science and Python**
 
