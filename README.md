@@ -51,13 +51,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
+<h3> 👀 My interest areas</h3> 
 
 <h3 align="center" > Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haziqrahat/">
 			<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
-	</a>
+	</a>👀
 		<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">		
 	<img src="https://img.icons8.com/ios-glyphs/35/000000/domain.png"/></a>
 					<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">
