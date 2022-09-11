@@ -29,6 +29,7 @@
   <img alt="JupyterLab" src="https://img.shields.io/badge/-Jupyter Lab-8DD6F9?style=flat&logo=jupyter&logoColor=white" /> 
   <img alt="Taleau" src="https://img.shields.io/badge/-Taleau-46a2f1?style=flat&logo=tableau&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-1a73e8?style=flat&logo=visual-studio&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-007ACC?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-5849BE?style=flat&logo=python&logoColor=white" />
@@ -37,7 +38,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat&logo=mysql&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/-.NET-CB3837?style=flat&logo=.net&logoColor=white" />
