@@ -31,7 +31,7 @@
 
 
 
-<h3 align="right" > Connect with me 🤝 </h3>
+<h3 align="center" > Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haziqrahat/">
 			<img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
