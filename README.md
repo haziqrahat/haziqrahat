@@ -33,16 +33,15 @@
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-007ACC?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-5849BE?style=flat&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-311C87?style=flat&logo=C&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-430098?style=flat&logo=C++&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-764ABC?style=flat&logo=java&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E10098?style=flat&logo=html&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6699?style=flat&logo=CSS&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C#-db7092?style=flat&logo=C#&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat&logo=sql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat&logo=js&logoColor=white" />
+  <img alt=".net" src="https://img.shields.io/badge/-.NET-CB3837?style=flat&logo=.net&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
