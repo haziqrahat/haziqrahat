@@ -37,6 +37,10 @@
 			<img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">
 					<img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a>
+					<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">
+					<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a>
+					
+					
       </div>
 
 </p>
