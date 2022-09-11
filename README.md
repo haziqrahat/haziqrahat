@@ -6,7 +6,7 @@
 	</div>
 
 <a target="_blank" align="center">
-  <img align="right" left="100" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif">
+  <img align="right" left="-100" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif">
 </a>
 
  <h3> 💫 &nbsp; About Me</h3>
