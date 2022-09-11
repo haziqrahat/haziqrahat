@@ -48,7 +48,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
 </p><br/>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=haziqrahat&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haziqrahat&show_icons=true&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqrahat&show_icons=true" height="170"/>
 	</div>
 
