@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="100"/>
 	
-<h2 align="center"><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50"/>⭐️ Hello   world,   I am  <a href=''>Haziq </a>⭐️</h2>
+<h2 align="center">⭐️ Hello   world,   I am  <a href=''>Haziq </a>⭐️</h2>
 	</br>
 	</div>
 
