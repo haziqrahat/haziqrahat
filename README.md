@@ -54,7 +54,7 @@
 <h3> 👀 My interest areas</h3> 
 
 
-<img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif"/>
+<img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif"/ width=20>
 <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
 <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
 
