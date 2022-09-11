@@ -9,7 +9,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
- <h3> 🧑🏻‍💻 About Me</h3>
+ <h3> 🧑🏻‍ About Me</h3>
 
 - 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
 
@@ -22,7 +22,7 @@
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
 
-<h3>Things I code with <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></h3> 
+<h3>🧑🏻‍💻Things I code with </h3> 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
