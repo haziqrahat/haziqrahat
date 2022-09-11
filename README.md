@@ -34,9 +34,9 @@
 <h3 align="center" > Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haziqrahat/">
-			<img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">
-					
+			<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+	</a>
+		<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">		
 	<img src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
 					<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">
 					<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
