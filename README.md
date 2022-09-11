@@ -48,6 +48,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
 </p><br/>
 
+[![Haziq's github stats](https://github-readme-stats.vercel.app/api?username=haziqrahat)](https://github.com/haziqrahat/github-readme-stats)
 
 <h3> 👀 My interests</h3> 
 
