@@ -1,6 +1,5 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="100"/>
-	<a href="https://giphy.com/gifs/sibylleberg-grm-sibylle-berg-frau-ksE9feSa2b4V2GYwY4">via GIPHY</a></p>
 <h2 align="center">⭐️ Hello   world,   I am  <a href=''>Haziq </a>⭐️</h2>
 	</br>
 	</div>
