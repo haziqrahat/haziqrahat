@@ -19,7 +19,7 @@
 
 - 📫 Reach me @ **haziqbullah@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences @<a href="" target="blank">haziqrahat.com</a>
 <br/>
 
 <h3>🧑🏻‍💻Things I code with </h3> 
