@@ -53,11 +53,16 @@
 
 <h3> 👀 My interest areas</h3> 
 
+
+<img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif"/>
+<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+
 <h3 align="center" > Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haziqrahat/">
 			<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
-	</a>👀
+	</a>
 		<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">		
 	<img src="https://img.icons8.com/ios-glyphs/35/000000/domain.png"/></a>
 					<a style="margin-left: 5px;" target="_blank" href="https://www.haziqrahat.com/">
