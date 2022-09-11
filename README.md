@@ -49,6 +49,7 @@
 </p><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=haziqrahat&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haziqrahat&show_icons=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haziqrahat)](https://github.com/haziqrahat/github-readme-stats)
 
