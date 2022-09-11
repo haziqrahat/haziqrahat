@@ -49,8 +49,8 @@
 </p><br/>
 <div>
 [![Haziq's github stats](https://github-readme-stats.vercel.app/api?username=haziqrahat&show_icons=true)](https://github.com/haziqrahat/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haziqrahat)](https://github.com/haziqrahat/github-readme-stats)
-	</div>
+
+</div>
 <h3> 👀 My interests</h3> 
 
 <div>
