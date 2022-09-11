@@ -35,20 +35,15 @@
   <img alt="C" src="https://img.shields.io/badge/-C-311C87?style=flat&logo=C&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-430098?style=flat&logo=C++&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-764ABC?style=flat&logo=java&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E10098?style=flat&logo=html&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6699?style=flat&logo=CSS&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6699?style=flat&logo=css&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C#-db7092?style=flat&logo=C#&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat&logo=sql&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat&logo=js&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/-.NET-CB3837?style=flat&logo=.net&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 <h3> 👀 My interests</h3> 
