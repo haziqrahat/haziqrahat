@@ -42,7 +42,7 @@
 					<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
 	</a>
 				
-      </div>
+
 
 </p>
 
