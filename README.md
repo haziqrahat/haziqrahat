@@ -7,8 +7,9 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<p style="font-size=20px">hi</p>
 
- <h2> 🧑🏻‍💻 About Me</h2>
+ <h3> 🧑🏻‍💻 About Me</h3>
 
 - 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
 
