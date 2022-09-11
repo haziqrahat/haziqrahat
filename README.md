@@ -5,8 +5,8 @@
 	</br>
 	</div>
 
-<a target="_blank" align="left">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif">
 </a>
 
  <h3> 💫 &nbsp; About Me</h3>
