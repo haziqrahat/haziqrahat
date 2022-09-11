@@ -33,7 +33,7 @@
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-007ACC?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-5849BE?style=flat&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-311C87?style=flat&logo=C&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-430098?style=flat&logo=C++&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-430098?style=flat&logo=c++&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-764ABC?style=flat&logo=java&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6699?style=flat&logo=css&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C#-db7092?style=flat&logo=C#&logoColor=white" />
