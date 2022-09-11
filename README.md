@@ -56,7 +56,7 @@
 <div>
 <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="200"/> 
 <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="120"/>
-<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+<img src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code_335657-2370.jpg?w=2000"/>
 </div>
 
 <h3 align="center" > Connect with me 🤝 </h3>
