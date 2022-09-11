@@ -53,10 +53,11 @@
 
 <h3> 👀 My interest areas</h3> 
 
-
+<div>
 <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="200"/> 
+<img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif width="200"/>
 <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
-<img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+</div>
 
 <h3 align="center" > Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
