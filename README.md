@@ -36,7 +36,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-430098?style=flat&logo=c++&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-764ABC?style=flat&logo=java&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-CC6699?style=flat&logo=styelsheet&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C #-db7092?style=flat&logo=c#&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C Sharp-db7092?style=flat&logo=c#&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat&logo=sql&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat&logo=js&logoColor=white" />
