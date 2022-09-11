@@ -25,13 +25,13 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/HTML-html-brightgreen" />
+  <img alt="npm" src="[https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white](https://img.shields.io/badge/HTML-html-brightgreen)" />
   <img alt="html5" src="" />
 </p>
 
 
 
-<h3 align="right" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="right" > <img src="https://icons8.com/icon/63807/domain" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haziqrahat/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
