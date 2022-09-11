@@ -46,7 +46,8 @@
 	<img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 		
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
-</p>
+</p><br/>
+
 
 <h3> 👀 My interests</h3> 
 
