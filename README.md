@@ -51,7 +51,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3> 👀 My interest areas</h3> 
+<h3> 👀 My interests</h3> 
 
 <div>
 <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="200"/ > 
