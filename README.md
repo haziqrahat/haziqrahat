@@ -56,7 +56,7 @@
 <div>
 <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="200"/ > 
 <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="120"/> &nbsp; &nbsp; &nbsp;
-<img src="https://okcredit-blog-images-prod.storage.googleapis.com/2021/03/Software-Development-Business1--1-.jpg" width="120"/>
+<img src="https://www.origiin.com/bin2017/wp-content/uploads/2021/08/Software.png" width="120"/>
 </div>
 
 <h3 align="center" > Connect with me 🤝 </h3>
