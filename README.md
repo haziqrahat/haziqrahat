@@ -7,7 +7,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-<p style="font-size=20px">hi</p>
+<p style="font-size=100">hi</p>
 
  <h3> 🧑🏻‍💻 About Me</h3>
 
