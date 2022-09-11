@@ -9,7 +9,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
- <h2> 📟 About Me</h2>
+ <h2> 💫 About Me</h2>
 
 - 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
 
