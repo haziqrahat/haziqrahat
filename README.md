@@ -11,7 +11,7 @@
 
  <h3> 💫 &nbsp; About Me</h3>
 
-- 🎓 I am a graduate student at <a href="" target="blank">UC Riverside</a>
+- 🎓 I am a graduate student at **UC Riverside**
 
 - 🫶 I like developing software applications
 
