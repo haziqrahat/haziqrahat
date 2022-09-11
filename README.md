@@ -56,7 +56,7 @@
 <div>
 <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="200"/ > 
 <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="120"/> &nbsp; &nbsp; &nbsp;
-<img src="https://media.giphy.com/media/St8RTYskTF5Aa7LmTp/giphy.gif" height="50" /> 
+<img src="https://media.giphy.com/media/St8RTYskTF5Aa7LmTp/giphy.gif" height="150" /> 
 <img src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code_335657-2370.jpg?w=2000" width="120"/>
 
 
