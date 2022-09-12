@@ -38,7 +38,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img alt="Cocalc" src="https://img.shields.io/badge/-Cocalc-45b8d8?style=flat&logo=cocalc&logoColor=white" />
+  <img alt="Coclac" src="https://img.shields.io/badge/Cocalc-563D7C?style=flat&logo=server&logoColor=white" />
   <img alt="Aws" src="https://img.shields.io/badge/-AWS-45b8d8?style=flat&logo=amazon&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat&logo=mysql&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
