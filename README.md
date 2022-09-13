@@ -51,7 +51,7 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=haziqrahat&show_icons=true&theme=material-palenight"/>
 
-	</div>
+
 
 <h3> 👀 My interests</h3> 
 
