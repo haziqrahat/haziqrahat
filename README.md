@@ -11,7 +11,7 @@
 
  <h3> About Me</h3>
 
-- 🎓 I am a graduate student at **UC Riverside**
+- 🎓 I am a recent graduate student from **UC Riverside**
 
 - 🫶 I love developing software applications
 - 🐍 Python is my language
