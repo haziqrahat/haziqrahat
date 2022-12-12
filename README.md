@@ -11,7 +11,7 @@
 
  <h3> About Me</h3>
 
-- 🎓 MS in CS from **UC Riverside**.
+- 🎓 **MS** in **CS** from **UC Riverside**.
 
 - 🫶 I love developing software applications
 - 🐍 Python is my language
