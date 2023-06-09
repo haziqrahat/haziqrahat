@@ -16,7 +16,7 @@
 - 🫶 I love developing software applications
 - 🐍 Python is my language
 
-//- 💬 Ask me about **Data Science and AI**
+<!--- 💬 Ask me about **Data Science and AI** --->
 
 //- 📫 Reach me @ **haziqbullah@gmail.com**
 
